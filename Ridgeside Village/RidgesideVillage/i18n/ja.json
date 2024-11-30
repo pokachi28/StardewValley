@@ -1,0 +1,266 @@
+{
+ "Gathering.location": "リッジサイドの村広場にて。",
+ "EoR.location": "尾根にて。",
+ "LogCabinHotel.Rates.Normal": "宿泊料金^^一泊 - 500$^^ごゆっくりおくつろぎくださいませ。",
+ "LogCabinHotel.Rates.Expanded": "宿泊料金^^一泊 - 500$^誕生日パーティー - 1500$^結婚披露宴 - 2000$^結婚記念パーティー - 2000$^^その他情報：^誕生日パーティーは3日以内にご友人の誕生日がある場合のみ予約できます。^お知り合いでない方の誕生日パーティは予約できません。^^結婚披露宴は結婚式を控えている場合のみ予約できます。^^同時に複数の予約はできません！",
+
+ "HotelCounter.Booking.Question": "宿泊をご希望でしょうか？",
+ "HotelCounter.Booking.Yes": "はい、500$で一泊させてください。",
+ "HotelCounter.Booking.No": "いいえ、結構です。",
+ "HotelCounter.Booking.AfterBooking": "お部屋は2階にございます。#下側、一番左の部屋へどうぞ。#ごゆっくりおくつろぎください。",
+ "HotelCounter.Booking.AlreadyBooked": "すでに宿泊の予約は済んでいます。",
+ "HotelCounter.Booking.NotEnoughMoney": "宿泊に必要な料金を持っていません。",
+ "HotelRoom.DirectionsAlert": "泊まる部屋は下側、一番左の部屋だ。",
+ "HotelCounter.Booking.Free": "2階左下の部屋をお使いください。オーナーのご友人ということですので、料金は結構です。",
+
+ "EventHallCounter.Booking.Question": "イベントの予約をご希望でしょうか？",
+ "EventHallCounter.Booking.AlreadyBooked": "すでにイベントの予約は済んでいます。",
+ "EventHallCounter.Booking.NotEnoughMoney": "イベントの予約に必要な料金を持っていません。",
+ "EventHallCounter.Booking.No": "いいえ、結構です。",
+
+ "EventHallCounter.Booking.BirthdayParty": "誕生日パーティー - 1500$",
+ "EventHallCounter.Booking.Bday.Question": "どなたかの誕生日パーティーを予約なさいますか？",
+ "EventHallCounter.Booking.Bday.Yes": "はい、1500$でパーティーを予約させてください。",
+ "EventHallCounter.Booking.Bday.AfterBooking": "ご予約ありがとうございます！お誕生日当日はいつでもイベントホールまでお越しください。お待ちしております！",
+ "EventHallCounter.Booking.Bday.List": "直近の誕生日",
+ "EventHall.TodayBirthday": "今日は{{name}}の誕生日パーティーを予約してある！#今日中にログキャビンホテルのイベントホールへ行くのを忘れないようにしよう。",
+
+ "EventHallCounter.Booking.WeddingReception": "結婚披露宴 - 2000$",
+ "EventHallCounter.Booking.WR.Question": "結婚式の後に開く披露宴を予約なさいますか？",
+ "EventHallCounter.Booking.WR.Yes": "はい、2000$で結婚披露宴を予約させてください。",
+ "EventHallCounter.Booking.WR.AfterBooking": "ご予約ありがとうございます！披露宴の準備は全てこちらにお任せください。改めて、ご結婚おめでとうございます！",
+
+ "EventHallCounter.Anv.Title": "結婚記念パーティー - 2000$",
+ "EventHallCounter.Anv.Yes": "はい、明日のパーティーを予約させてください。",
+ "EventHallCounter.Anv.Question": "明日の結婚記念パーティーを予約なさいますか？",
+ "EventHallCounter.Anv.AfterBooking": "ご予約ありがとうございます！また明日お会いしましょう！",
+
+ "RSV.Minecart.Question": "どこへ行く？",
+ "MinecartLocation.1": "ペリカンタウン",
+ "MinecartLocation.2": "北 - リッジサイドビレッジ",
+ "MinecartLocation.3": "南 - リッジサイドビレッジ",
+ "MinecartLocation.4": "東 - リッジサイドビレッジ",
+ "MinecartLocation.5": "東 - 山頂の牧場",
+ "MinecartLocation.6": "西 - 山頂の牧場",
+ "Exit.Text": "キャンセル",
+
+ "NotEnoughMoney": "お金が足りない。",
+
+ "IanShop.Closed": "すみません、閉店中です！(開店時間：午前9時 - 午後5時 ただし日曜を除く)",
+ "IanShop.Open": "便利屋サービス",
+ "IanShop.Cancel": "もどる",
+ "IanShop.Bye": "また来てください！",
+ "IanShop.ServiceAlreadyActive": "{{serviceName}}はすでに頼んでいる。",
+ "IanShop.ServiceNotActive": "{{serviceName}}は頼んでいないためキャンセルすることはできない。",
+ "IanShop.ServiceStarted": "便利屋サービスは明日から{{serviceName}}を始めます。サービスをキャンセルしたい時はいつでもここへ来てください。ご愛顧いただきありがとうございます！",
+ "IanShop.CancelService": "サービスをキャンセルする",
+ "IanShop.ServiceCancelled": "{{serviceName}}はキャンセルされました。また新しくサービスを頼みたい時はここへ来てください。",
+ // Crop watering
+ "IanShop.WaterPlants": "作物への水やり",
+ "IanShop.WaterPlantsMenu": "作業員を雇って作物に水やりしてもらう？",
+ "IanShop.WaterPlantsSelection": "一日に一つの作物につき{{amount}}$払って、雨の降っていない日に水やりをしてもらう",
+ "IanShop.HasWatered": "便利屋が作物に水やりをしてくれた。今日の料金：",
+ // Animal petting
+ "IanShop.PetAnimals": "動物ナデナデ",
+ "IanShop.PetAnimalsMenu": "作業員を雇って動物をなでてもらう？",
+ "IanShop.PetAnimalsSelection": "一日に一匹の動物につき{{amount}}$払って、動物をなでてもらう",
+ "IanShop.NoAnimals": "なでられる動物を飼っていない。",
+ "IanShop.HasPetAnimals": "便利屋が動物をなでてくれた。今日の料金：",
+ "IanShop.NotEnoughMoneyHUD": "{{serviceName}}は資金不足のためキャンセルされました。また新しくサービスを頼みたい時は便利屋へ来てください。",
+ // Fence fixing
+ "IanShop.FixFences": "柵の修理",
+ "IanShop.FixFencesMenu": "作業員を雇って柵を修理してもらう？",
+ "IanShop.FixFencesSelection": "一つの柵につき{{amount}}$払って、明日すべての柵を修理してもらう",
+ "IanShop.HasFixedFences": "柵を修理してもらった。料金：",
+ "IanShop.NoFences": "牧場に柵を建てていない！",
+ // Renovations
+ "IanShop.SummitFarm": "山頂の牧場のアップグレード",
+ "IanShop.OnlyFarmOwner": "これを利用できるのは山頂の牧場のオーナーだけだ。",
+ "IanShop.BrokenCarts": "う～ん。手伝いたいのはやまやまなんだけど、どうやって山頂まで資材を運べばいいんだろう...$2#$b#ああ、そうだ。あの古いトロッコを修理できたら、それでいけるかもしれないな。$1",
+ "IanShop.Construction": "よし、じゃあこれから{{project}}に取りかかるよ！",
+ "IanShop.Instant": "よし！{{project}}はもう出来上がってるから、なるはやできみの牧場に届けるよ！",
+ "IanShop.AlreadyBuilding": "@。今はきみから頼まれたプロジェクトに取り組んでるから、それが終わるまでは新しい作業を始められないんだ。$s#$b#でも、それが終わったらまた話そう！",
+ "IanShop.AllRenovated": "@、きみの家でできる改築はもう全部済ませてるよ！だからこれ以上新しい改築はできない。ごめんね！$1",
+
+ "SummitHouseUpgrade.Name": "山頂の家のアップグレード",
+ "SummitHouseUpgrade.Description": "山頂の家を内装、外装ともに新築同様にする。",
+ "ClimateControl.Name": "気候操作",
+ "ClimateControl.Description": "一年中どんな作物でも育てられるようになる。",
+ "SprinklerSystem.Name": "スプリンクラーシステム",
+ "SprinklerSystem.Description": "地下にスプリンクラーを設置し、毎日自動で作物に水を与える。",
+ "OreArea.Name": "採掘エリア",
+ "OreArea.Description": "東の丘の上を鉱石が採掘できるエリアに変える。",
+ "Shed.Name": "納屋",
+ "Shed.Description": "家の上方の丘に立つ空き家。中は装飾が可能。",
+
+ "ShowImage.Arknir": "この写真は、リッジサイドカラオケイベントでグランプルトンの写真家Ark Nirによって撮られたものだ。#(2021年度 RSV Discord Art Contest 優勝作品)",
+ "ShowImage.Aniv1st": "「リッジサイドのつどいでMiaが友人たちのもとを訪れた場面！」#この写真を撮った観光客Himeから貰った写真のコピーだ。#(RSV's 1st Anniversary Discord Eventのファンアートコンテスト1位獲得作品)",
+ "ShowImage.Aniv2nd": "「フロル・オンザ・フロア」#Rajahが同意を得た上で撮影した、ありのままの姿をとらえた写真だ。#(RSV's 1st Anniversary Discord Eventのファンアートコンテスト2位獲得作品)",
+ "ShowImage.Aniv3rd": "「果樹園に歌う鳥たち」#Ryomaが果樹園のために撮影した商用写真だ。#(RSV's 1st Anniversary Discord Eventのファンアートコンテスト3位獲得作品)",
+
+ "Clinic.Healthy": "体力もスタミナも十分だ！",
+ "Clinic.HealthyHealth": "体力は十分だ！",
+ "Clinic.HealthyStamina": "スタミナは十分だ！",
+ "Clinic.Choices": "今日はどういったご用件かしら？",
+ "Clinic.Health": "体力診断",
+ "Clinic.Stamina": "スタミナ診断",
+ "Clinic.Look": "ちょっと見てみましょうか...",
+ "Clinic.Done": "はい、良くなったわよ！",
+ "Clinic.PaulaNotHere": "現在、医師は外出中です。",
+
+ "Offer.Question": "本当に{{itemName}}を水の中に投げ入れる？",
+ "Offer.Yes": "はい",
+ "Offer.No": "いいえ",
+ "Offer.IllegalItem": "これは捨てない方がいいだろう。",
+
+ "Daia.BookOpen": "本を開くと、白紙だったページに文字や絵がゆっくりと浮かび上がってくる。",
+ "Daia.BookClose": "本を閉じる。",
+ "Daia.BookPages": "ページを選ぶ。",
+ "Daia.Page1": "ページ　1 - 呪いのアーティファクト I",
+ "Daia.Page2": "ページ　2 - 呪いのアーティファクト II",
+ "Daia.Page3": "ページ　3 - 呪いのアーティファクト III",
+ "Daia.Page4": "ページ　4 - 呪いのアーティファクト IV",
+ "Daia.Page5": "ページ　5 - 祝福のアーティファクト I",
+ "Daia.Page6": "ページ　6 - 祝福のアーティファクト II",
+ "Daia.Page7": "ページ　7 - 祝福のアーティファクト III",
+ "Daia.LegendFishes": "ページ　8 - 伝説の魚",
+ "Daia.RelicHint1": "「山の化石」^リッジフォレストの森の中、^滝のそばに古代の化石は現れる。^インクで描かれた古代の獣、^そして銀の魚の骨。",
+ "Daia.RelicHint2": "「夜とモンスター」^夜空に輝くダイヤモンド。^森の豊かな鉱物に隠れている。^足を踏み入れるなら用心せよ。^呪われた古代の蛇獣がうろついている。^それらを退治し、古代民族のレリックを手に入れるのだ。",
+ "Daia.RelicHint3": "「さまよう恋人」^3の倍数の日付に、^迷える精霊が他の霊にまじり山の森をさまよう。^色は青白く。きっと目にするはずだ。^呪いのバラを与える、友好的なその姿を。",
+ "Daia.RelicHint4": "「ヘラジカ」^この動物は空を仰ぐベンチの後ろに隠れており、^さらにその後ろには木がそびえ立っている。^^「キツネ」^一文につき一時間。^キツネの紫玉の前にて、忍耐は報われる。^キツネの紫玉の前にて、忍耐は報われる。",
+ "Daia.RelicHint5": "「壁の裏の音楽」^古の歌い手は踊り子の絵の裏に囚われている。^それを切り倒し、彼女を解放せよ。^^「忘れ去られし英雄」^裕福な家の井戸にて釣りをすれば、^忘れ去られた人物を落ちた場所から救い出せるだろう。^^「エルフのくし」^山道にて、廃屋を見つけよ。^そのそばのどこかに、裏切り者の秘密を隠すため くしが埋められている。",
+
+ "CompleteCrystalsNotif": "山が語りかけてくるようだ...#「ありがとう、牧場主くん...ここからは僕に任せて...」#「明日ごろ戻ってきてくれ。そうすればやっと会える...」#「楽しみだ、我が友の孫よ...」",
+
+ "RSV.MyLetter": "これを読んでいる人へ^わたしたちが世界から孤立して随分と経ちました。よく晴れたある日、突然紫色の霧が牧場へ迫ってきました。すると周りの自然がひとりでに動き出し、土や植物、木々の高い壁がわたしたちを包み込んでしまったのです。その壁を壊そうとすれば、より力強く生えて戻ってきます。自分たちを閉じ込めたこの力に対して、わたしたち夫婦が恨みを抱いているのではないかと思われるかもしれません。しかし、違います。わたしたちは気にしていません。^自然がわたしたちを閉じ込めたのにはなにか理由があるはずです。おそらくあの不吉な霧からわたしたちを救うためではないでしょうか。もしそうだとしたら、わたしたちが穏やかに余生を送れるようにしてくださったヨバさまには感謝しかありません。^もうあれから何年も経っていますが、わたしたちは幸せです。ここは今わたしと妻が我が子のように育てた作物が一面に広がっていますが、それらもいつかは全てなくなってしまうでしょう。^そしてその日がやって来た時、わたしたち夫婦はすでにヨバさまのもとへ旅立っていることでしょう。もしかすると、壁もなくなっているのかもしれません。^^これを読んでいるあなたへ。この土地はあなたのものです。^わたしからお願いしたいのは、かつてのわたしたちのように愛を注いでやってほしいということ。ただそれだけです。^願わくば、あなたにヨバさまの祝福があらんことを。^^- R",
+ "RSV.Fridge": "冷蔵庫",
+
+ "RSV.UndreyaError": "利用できるのはホストだけだ！",
+ "RSV.UndreyaSchedStart": "アンドレアとのかくれんぼをはじめる？",
+ "RSV.UndreyaSchedStop": "アンドレアとのかくれんぼをやめる？",
+ "RSV.UndreyaWillPlay": "明日、アンドレアは隠れているはずだ！",
+ "RSV.UndreyaWontPlay": "明日、アンドレアは家にいるはずだ！",
+
+ "Loan.Error": "利用できるのはホストだけだ！",
+ "Loan.BeginQuestion": "この度は、アメジーン信託銀行をご利用いただきありがとうございます。ご希望の借入額はおいくらですか？",
+ "Loan.100k": "100,000$",
+ "Loan.500k": "500,000$",
+ "Loan.1mil": "1,000,000$",
+ "Loan.Nevermind": "やっぱりやめる",
+ "Loan.Begun": "あなたの口座に{amount}$送金されました。返済する際はもう一度ここにお越しください。",
+ "Loan.Interest": "昨日の売上のうち利息として差し引かれた金額：",
+ "Loan.PayQuestion": "借入金の返済をする？ (借入残高：{amount}$)",
+ "Loan.PayMenu": "支払う金額：",
+ "Loan.FullyPaid": "借入金を全額返済しました。次に借入する際はもう一度ここにお越しください",
+ "Loan.PartlyPaid": "{amount}$返済した。借入残高：",
+
+ "Aniv.1st": "Airynの巻",
+ "Aniv.2nd": "Kabuto N.の巻",
+ "Aniv.3rd": "Yriの巻",
+
+ "Aniv.Airyn-Leilani": "(RSV1周年記念ディスコードイベントポエムコンテスト1位)^^父さん^風変りだけど、愛情深い^成長、笑い、談話室^両親、植物、プリンセス、遊び^見守る、心配する、ほほ笑む^暖かく、厳しく^母さん^^ボクを抱きしめるのが大好き^帰ってくるたびに^体調の悪いフリをするけど^母さんの話を聞くのが好きなんだ^母さんもそうであってほしいと願っている^あまり留守にしないで^会いたいよ、母さん^^シロウ兄さん^毎日兄さんのことを気にかけてる^気にしないで。心配しないで。",
+ "Aniv.Airyn": "(RSV1周年記念ディスコードイベントポエムコンテスト1位)^^父さん^風変りだけど、愛情深い^成長、笑い、談話室^両親、植物、プリンセス、遊び^見守る、心配する、ほほ笑む^暖かく、厳しく^母さん^^ボクを抱きしめるのが大好き^帰ってくるたびに^体調の悪いフリをするけど^母さんの話を聞くのが好きなんだ^母さんもそうであってほしいと願っている^あまり留守にしないで^会いたいよ、母さん^^シロウ兄さん^毎日兄さんのことを気にかけてる^気にしないで。心配しないで。",
+ "Aniv.ChickenNuggets": "(RSV1周年記念ディスコードイベントポエムコンテスト2位)^^トリニーからユウマへ:^ケアヒとアタシ^たくさんのイタズラを用意したよ^いつかいっしょにやろう！^^ケアヒからユウマへ:^イタズラを覚えといてくれよ^楽しんでただろ？^またやろうぜ！^^ユウマからトリニーとケアヒへ:^ボクの友達^二人ともよろしく^待っていてね",
+ "Aniv.Yri": "(RSV1周年記念ディスコードイベントポエムコンテスト3位)^^イレブンニー^'リッジサイド^高い場所^崖の上^谷を見渡す^のどか'",
+ "BlissBook.Title": "目次",
+
+ "RSV.WarpFail": "ワープトーテムを使うことはできない。",
+ "RSV.WarpFestival": "決意の残り火はまだ準備中だ。また後で来てみよう！",
+
+ "Shiro.RejectProposal": "その...すまない、@。君のことは愛してる。それから、一緒に暮らしたいという気持ちだって君と同じだ。でも、ここでうなずいたら俺は兄として失格なんだよ。$s#$b#両親がいない今、ユウマのそばにいてやれるのは俺だけだ...$s#$b#それに、あいつにはここ数年本当につらい思いをさせた。何もかもが変わってしまった今、俺たちが一緒にいることは今と昔をつなぐ最後の糸なんだ。それを俺が断ち切ってしまうのは、あまりに自分勝手ってものだろう？$s#$b#本当にすまない。分かってくれ、@。$s",
+ "Kiarra.RejectProposal": "悪いね、@。でもあんた、Jojaがあの倉庫を建てる時に手を貸したろう？あたしとそんなやつとじゃ価値観が合うとは思えないんだ。$a",
+
+ "installation.incorrect": "Ridgeside Village が正しくインストールされていないようです。",
+ "missing.mods": "Ridgeside Villageに必要な MOD(s) が検出されませんでした...",
+ "missing.mods.cont": "以下をダウンロードするか、正しくインストールされていることを確認してください。:",
+ "outdated.mods": "Ridgeside Villageで使用するには古いバージョンの MOD が検出されました...",
+ "outdated.mods.cont": "プレイする前に以下を更新してください。:",
+ "orphaned.mods": "以下の必要な MOD が見つかりませんでした。",
+ "orphaned.mods.cont": "がインストールされているか、あるいはそれ自身の依存関係が欠けています。以下をご確認ください：",
+ "mod.info": "{{author}}による{{modName}}。-",
+ "mod.parents": "関連する要件: {{parents}}",
+ "smapi.outdated": "SMAPIが古いです！至急更新してください！",
+ "ridgeside.CP.missing": "\n\n\nRidgeside Village のインストールに問題があるようです。\nhttps://smapi.io/log にアクセスし、サイトの指示に従ってログをアップロードしてください。\nページの上部までスクロールして、 赤いテキストを読んでエラーを特定してください。\n\n\n",
+ "help.message": "サポートが必要な場合は、Discord サーバーにアクセスしてください。 https://discord.gg/wkrUNkQ4xQ",
+
+ "RidgePond.NoFishing": "この池には魚がほとんどいないようだ...もしここで釣りをしようものなら、ベリンダにこっぴどくしかられるだろう。",
+ "GrandmaMessage.1": "わたしのかわいい孫、@...#ようやく来てくれたのね、うれしいわ...#きっと、あなたのおじいちゃんも...#元気でね、@...",
+
+ "FoxbloomHint.Uncleansed": "ここにある本はどれも異なる言語で書かれている...",
+ "FoxbloomHint.Cleansed": "ここにある本はどれも異なる言語で書かれている...しかし、そのうちの一冊に興味をひかれた。どうやらベリンダが書いたものらしい。",
+ "FoxbloomHint.Text": "キツネの花はその希少さゆえ、同じ日に2輪以上見つかることは決してない。また、あらわれる場所は森の中にあるナゾのクリスタル付近らしい。^^^^そして、季節ごといずれか一つの日曜 キツネの面の前に姿をあらわすであろう。どの日曜であるかについては、正確な日付の算出式を編み出しておいたぞ。：[letterbg LooseSprites/FoxbloomHints.opener 0]",
+
+ // 9 - 2
+ "FoxbloomHint.easy.7": "場所：アメジーン邸 [letterbg LooseSprites/FoxbloomHints.easy 0]",
+ // 14
+ "FoxbloomHint.easy.14": "場所：リッジフォール [letterbg LooseSprites/FoxbloomHints.easy 1]",
+ // 7 * 3
+ "FoxbloomHint.easy.21": "場所：リッジサイドビレッジ^^^^^^^^^^(注：動物の色は問わない) [letterbg LooseSprites/FoxbloomHints.easy 2]",
+ // 4 * 7
+ "FoxbloomHint.easy.28": "場所：キンポイの納屋 [letterbg LooseSprites/FoxbloomHints.easy 3]",
+
+ //Non-English characters are there to create an indent on the first line - If your language is Japanese or Korean, replace your character with the one not from your alphabet
+ // 9 - (4/2)
+ "FoxbloomHint.medium.7": "아　霊界にある島の数^    愛の神秘の滝にある木の数 [letterbg LooseSprites/FoxbloomHints.medium 0]",
+ // 6 + 8 ("scarecrows" -> "plain scarecrows")
+ "FoxbloomHint.medium.14": "リッジサイドの中で：^    村にある普通のカカシの数^    子どもと一緒に村で暮らしている親の数 [letterbg LooseSprites/FoxbloomHints.medium 1]",
+ // 10 + 11
+ "FoxbloomHint.medium.21": "아   マディの家の中にある植物の数^    リッジサイド診療所の屋内にある座席*の数^^^^^^^^*(注：「座席」は座れる場所を指す) [letterbg LooseSprites/FoxbloomHints.medium 2]",
+ // (5 * 5) + 3
+ "FoxbloomHint.medium.28": "場所：リッジサイドビレッジ^    風車の数^    複数階建ての建物の数^    石橋の数 [letterbg LooseSprites/FoxbloomHints.medium 3]",
+
+ // (50 - 36)/(50 - 48)
+ "FoxbloomHint.hard.7": "場所：ナイチンゲール果樹園^    春の間、一日で果樹に生るくだものの合計数^    夏の間、一日で果樹に生るくだものの合計数^    一日で果樹に生るくだものの、一季節あたりの平均数 (冬は除く) [letterbg LooseSprites/FoxbloomHints.hard 0]",
+ // 2 * (8 - 3 + 2)
+ "FoxbloomHint.hard.14": "場所：ヒープスコンビニエンスストア屋内^    看板の合計数^    「HEAPS」と書かれた看板の合計数^    「SALE」と書かれた白看板の合計数^    「SALE」と書かれた青看板の合計数 [letterbg LooseSprites/FoxbloomHints.hard 1]",
+ // (18 * 12)/9 - 3
+ "FoxbloomHint.hard.21": "場所：リッジフォレスト^    滝の合計数^    横向きに架かった橋の合計数^    明らかに段差となっている崖の合計数*^    縦向きに架かった橋の合計数^^^^^^*(注：行けないところも含む) [letterbg LooseSprites/FoxbloomHints.hard 2]",
+ // 16 * (3/sq(4)) + 4 (last hint changed)
+ "FoxbloomHint.hard.28": "リッジサイドの村人の中で：^    最も多く誕生日となっている火曜日の日にち^    冬生まれの女性村人の合計数^    誕生日が土曜日である村人の合計数 [letterbg LooseSprites/FoxbloomHints.hard 3]",
+
+ "RSV.MapIconName": "リッジサイドビレッジ",
+
+ "LogCabinHotel.HistoryScroll": "リッジサイドビレッジの歴史^^太古の昔...^この谷が誕生した。ヨバのみわざか、自然のたまものかは不明である。^あらゆる人類文明の記録よりはるか以前、なんらかの大きな戦いが起こった。しかし、その争いの原因については何も証拠が残っていない。^[ここから最近の記録まで、多くの歴史が失われている... 塗りつぶされたものもあれば、かすれて消えてしまったものもある。すべて不明瞭だ]^^約2500年前...^ある古代の部族が尾根を開拓し村をつくった。彼らの家は当時主流の木造ではなく、石造であったという。^部族の人々はある種の池の精霊を信仰していた。その精霊は、主にカワウソとアザラシを組み合わせたような姿で描かれている。^やがて、村は破壊された - おそらく古代の蛮族のしわざと思われる。^^約700年前...^入植者たちが谷へやってきて、海岸線沿いに町をつくりあげた。これこそ、私たちが今日知っているペリカンタウンである。^ペリカンタウンはもともと炭鉱の町であったが、時代の変遷とともに貿易港となった。^当時人々がペリカンタウンへ移住してきたのは、きわめて肥沃な土壌と、近海の豊富な魚群によって、そこが自給自足の生活に適した場所だったためである。^約300年前から現在にいたるまで...^国際戦争の勃発を見据えた政府が、町民の避難所として新しい村を山間につくることを決定した。^ペリカンタウンの住民の中には、この新しい村へと永住しようと決めた者もいたという - こうしてリッジサイドビレッジは始まったのである。",
+
+ "ShowImage.zRSVOldKids": "古い写真だ。見覚えのある木のそばに子どもたちが集まっている。",
+
+ "RelationshipStatus.Locked": "(ロック)",
+
+ "RSV.NoNewOrders": "今週は何も貼り出されていない。",
+
+ //Options
+ "ShowVillagersOnMap": "ShowVillagersOnMap",
+ "ShowVillagersOnMap.Description": "RSVのマップ上に村人を表示する",
+ "ProgressiveStory": "ProgressiveStory",
+ "ProgressiveStory.Description": "プログレッシブストーリーモードを有効にする(RSVを既存セーブデータに導入する方向け)",
+ "RepeatCableCarCutscene": "RepeatCableCarCutscene",
+ "RepeatCableCarCutscene.Description": "ケーブルカーのカットシーンを有効にする",
+ "EnableOtherNPCsInCableCar": "EnableOtherNPCsInCableCar",
+ "EnableOtherNPCsInCableCar.Description": "他のNPCがケーブルカーに乗るようになる(LASV, ES, SVEのNPC含む)",
+ "EnableRidgesideMusic": "EnableRidgesideMusic",
+ "EnableRidgesideMusic.Description": "Ridgeside Village用の音楽を有効にする",
+ "RSVNPCSAttendFestivals": "RSVNPCSAttendFestivals",
+ "RSVNPCSAttendFestivals.Description": "RSVのNPCがペリカンタウンの祭りに来るようになる",
+ "ExpandedFestivalMaps": "ExpandedFestivalMaps",
+ "ExpandedFestivalMaps.Description": "Expanded版の祭りのマップが有効になる　無効の場合、他のmodの配置と競合する可能性がある",
+ "EasyIntroduction": "EasyIntroduction",
+ "EasyIntroduction.Description": "RSVのNPCが自己紹介クエストに含まれないようになる",
+ "EnableBetterBusStop": "EnableBetterBusStop",
+ "EnableBetterBusStop.Description": "TheLimeyDragonとRafseazzによるRidgeside Villageのthe Bus Stop用公式パッチを使用する　他のmodと競合する可能性があります",
+ "PoleAtBackwoods": "PoleAtBackwoods",
+ "PoleAtBackwoods.Description": "ケーブルカーを裏山のマップに追加する",
+ "SeasonalRSVMap": "SeasonalRSVMap",
+ "SeasonalRSVMap.Description": "RSVのワールドマップが季節別に変化する",
+ "EnableTouristNPCs": "EnableTouristNPCs",
+ "EnableTouristNPCs.Description": "ホテルに観光客NPCが来るようになる",
+ "ShowRSVCustomMap": "ShowRSVCustomMap",
+ "ShowRSVCustomMap.Description": "SDVとRSVのマップを切り替えるボタンをon/offにする",
+ "OddJobsWateringPrice": "Watering Price",
+ "OddJobsWateringPrice.Description": "便利屋サービスでの作物１つあたりの水やり代を設定する",
+ "OddJobsFencePrice": "Fence Price",
+ "OddJobsFencePrice.Description": "便利屋サービスでのフェンス1つあたりの修理代を設定する",
+ "OddJobsPetPrice": "Petting Price",
+ "OddJobsPetPrice.Description": "便利屋サービスでの動物１匹あたりのお世話代を設定する",
+ 
+ "ErrorMessage": "Ridgeside Village が正しくインストールされていないようです。 詳細についてはログを確認してください。.",
+}
