@@ -1,0 +1,99 @@
+{
+    "Name": "MissyShirts-Shirt111",
+	"FrontShirt": {
+	"DisableGrayscale": true,
+    "ColorMasks": [
+      [ 254, 254, 254 ],
+      [ 198, 198, 198 ]
+    ],
+    "SleeveColors": [
+      [ 65, 56, 71 ],
+      [ 98, 84, 107 ],
+      [ 135, 130, 146 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  },
+  "RightShirt": {
+	"DisableGrayscale": true,
+	"ColorMasks": [
+	[ 254, 254, 254 ],
+    [ 198, 198, 198 ]
+    ],
+	"SleeveColors": [
+      [ 65, 56, 71 ],
+      [ 98, 84, 107 ],
+      [ 135, 130, 146 ]
+    ],
+	"StartingPosition": {
+	  "X": 0,
+      "Y": 8
+	},
+	"BodyPosition": {
+	  "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  },
+	"LeftShirt": {
+	"DisableGrayscale": true,
+	"ColorMasks": [
+      [ 254, 254, 254 ],
+      [ 198, 198, 198 ]
+    ],
+	"SleeveColors": [
+      [ 65, 56, 71 ],
+      [ 98, 84, 107 ],
+      [ 138, 132, 150 ]
+    ],
+	"StartingPosition": {
+      "X": 0,
+      "Y": 16
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  },
+  "BackShirt": {
+	"DisableGrayscale": true,
+    "ColorMasks": [
+      [ 254, 254, 254 ],
+      [ 198, 198, 198 ]
+    ],
+    "SleeveColors": [
+      [ 65, 56, 71 ],
+      [ 98, 84, 107 ],
+      [ 138, 132, 150 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 24
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  }
+}

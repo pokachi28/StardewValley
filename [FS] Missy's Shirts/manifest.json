@@ -1,0 +1,12 @@
+{
+   "Name": "[FS] Missy's Shirts",
+   "Author": "MissyDiabolical, conversion by Iceprincess98",
+   "Version": "1.0.0",
+   "Description": "Missy's Shirts",
+	"UniqueID": "MissyDiabolical.MissysShirts.FS",
+	"UpdateKeys": [ "Nexus:1523" ],
+	"ContentPackFor":
+	{
+		"UniqueID": "PeacefulEnd.FashionSense"
+	}
+}
