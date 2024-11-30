@@ -1,0 +1,19 @@
+{
+  "Name": "[FTM] Underwater Beach Forage",
+  "Author": "KAYA",
+  "Version": "1.0",
+  "Description": "Forage setting for Underwater Beach.",
+  "UniqueID": "KAYA.UnderwaterBeachForage",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["Nexus:7441 @Beach"],
+  "ContentPackFor": {
+    "UniqueID": "Esca.FarmTypeManager",
+    "MinimumVersion": "1.9.0"
+  },
+   "Dependencies": [
+	{
+      "UniqueID": "aedenthorn.Swim",
+      "IsRequired": true,
+    }
+],	
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "[FTM] Underwater Mountain Forage",
+  "Author": "KAYA",
+  "Version": "1.0",
+  "Description": "Forage setting for Underwater Mountain.",
+  "UniqueID": "KAYA.UnderwaterMountainForage",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["Nexus:7441 @Mountain"],
+  "ContentPackFor": {
+    "UniqueID": "Esca.FarmTypeManager",
+    "MinimumVersion": "1.9.0"
+  },
+   "Dependencies": [
+	{
+      "UniqueID": "aedenthorn.Swim",
+      "IsRequired": true,
+    }
+],	
+}
