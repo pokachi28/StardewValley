@@ -11,7 +11,7 @@
   "ShowMinimap": false,
   "LockMinimapPosition": false,
   "ShowFarmBuildings": true,
-  "MinimapToggleKey": "OemPipe",
+  "MinimapToggleKey": "NumPad5",
   "MinimapX": 12,
   "MinimapY": 12,
   "MinimapWidth": 75,

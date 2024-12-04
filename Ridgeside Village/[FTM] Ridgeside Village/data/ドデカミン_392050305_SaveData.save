@@ -1,6 +1,8 @@
 {
-  "WeatherForYesterday": "Sunny",
-  "LNOSCounter": {},
+  "WeatherForYesterday": "Wind",
+  "LNOSCounter": {
+    "RSV Ridge Log": 1
+  },
   "ExistingObjectLocations": {},
   "SavedObjects": []
 }
